@@ -1,0 +1,33 @@
+body{
+    background: url(../images/jade.jpg);
+    padding-top:25px;
+}
+.container{
+    text-align: center;
+    padding-top:110px;
+    padding-bottom: 120px;
+    background: url(../images/memphis-colorful.png);
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#category{
+    color: orange;
+}
+.header{
+    color: blue;
+    font-family: cursive;
+}
+#timer{
+    padding-bottom: 15px;
+    color: purple;
+}
+#question{
+    font-size: 23px;
+    text-decoration: aqua;
+}
+#anwsers{
+    padding-top:10px;
+    font-style: italic;
+}
