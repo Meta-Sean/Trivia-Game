@@ -5,4 +5,4 @@
 - After 10 questions a results screen will display the number of wrong and right guesses.
 - Click play again to reset the game.
 
-![alt text](https://imgur.com/a/KnSpa7g.png)
+![alt text](https://i.imgur.com/OZmMM9P.png)
